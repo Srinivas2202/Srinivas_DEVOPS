@@ -5,8 +5,8 @@ public static HelloWorld
 		System.out.println ("Hello World! Welcome to Devops!!!");
 		int a =5
 		int b = 10
-		int c = b-a
-		system.output.println ("substarct of a and c = ")
+		int c = b*a
+		system.output.println ("multiply of a and c = ")
 	}
 	
 }
