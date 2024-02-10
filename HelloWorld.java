@@ -6,7 +6,7 @@ public class HelloWorld
 		int a = 5;
 		int b = 10;
 		int c = b/a;
-		System.output.println ("Divide of a and b =" +c);
+		System.out.println("Divide of a and b =" +c);
 	}
 	
 }
